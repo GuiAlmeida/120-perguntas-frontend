@@ -7,9 +7,6 @@
 
 ⬛ por Ruben Paschoarelli
 
-
-[Respostas](https://github.com/Willian17/120-perguntas-frontend/blob/main/README.md) por Willian Fernandes
-
   <br/><br/>
 
 `
